@@ -1,0 +1,19 @@
+body{
+    padding:0;
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(45deg, #194b4f, #33fffc);
+    font-size: larger;
+}
+button{
+    background: linear-gradient(45deg, #eae0e5, #ee03b7);
+    color: beige;
+    border-radius: 10px;
+    padding: 15px 50px;
+    
+}
+button:hover{
+    background:linear-gradient(45deg,  #9874e0, #5f47d5) ;
+    box-shadow: 0 0 10px #dbadc6, 0 0 20px #c7219b, 0 0 30px #b8518f;
+}
